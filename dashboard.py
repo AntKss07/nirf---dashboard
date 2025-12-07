@@ -11,10 +11,11 @@ all_df['Category'] = 'All'
 df = pd.concat([df, all_df])
 
 # Initialize the Dash app
-app = dash.Dash(__name__, external_stylesheets=[dbc.themes.LUX])
+dash_app = dash.Dash(__name__, external_stylesheets=[dbc.themes.LUX])
+app = dash_app.server
 
 # --- App Layout ---
-app.layout = dbc.Container(fluid=True, children=[
+dash_app.layout = dbc.Container(fluid=True, children=[
     html.H1(
         "NIRF 2025 – Top 10 Dashboard",
         className="text-center text-primary mb-4"
@@ -55,7 +56,7 @@ app.layout = dbc.Container(fluid=True, children=[
 ])
 
 # --- Callbacks ---
-@app.callback(
+@dash_app.callback(
     [Output('summary-cards', 'children'),
      Output('bar-chart', 'figure'),
      Output('pie-chart', 'figure'),
@@ -138,4 +139,4 @@ def update_dashboard(selected_category, selected_region):
 if __name__ == '__main__':
     # app.run(debug=True) # For development
     from waitress import serve
-    serve(app.server, host='0.0.0.0', port=8050)
+    serve(dash_app.server, host='0.0.0.0', port=8050)
