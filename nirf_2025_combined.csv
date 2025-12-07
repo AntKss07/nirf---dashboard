@@ -1,0 +1,131 @@
+Rank,Institute_ID,Name,Score,Category,State,Region
+1.0,IR-G-U-0101,Indian Agricultural Research Institute,89.23,Agriculture,Delhi,North
+2.0,IR-G-U-0171,ICAR - National Dairy Research Institute,75.87,Agriculture,Haryana,North
+3.0,IR-G-U-0381,Punjab Agricultural University,75.83,Agriculture,Punjab,North
+4.0,IR-G-U-0500,Banaras Hindu University,68.95,Agriculture,Uttar Pradesh,North
+5.0,IR-G-U-0518,"Indian Veterinary Research Institute, Izatnagar",67.66,Agriculture,Uttar Pradesh,North
+6.0,IR-G-U-0485,Tamil Nadu Agricultural University,67.06,Agriculture,Tamil Nadu,South
+7.0,IR-G-U-0200,Sher-e-Kashmir University of Agricultural Science and Technology of Kashmir,65.81,Agriculture,Jammu and Kashmir,North
+8.0,IR-G-U-0293,"Central Institute of Fisheries Education, Fisheries University",63.92,Agriculture,Maharashtra,West
+9.0,IR-G-U-0554,"G.B. Pant Universtiy of Agriculture and Technology, Pantnagar",61.56,Agriculture,Uttarakhand,North
+10.0,IR-G-U-0159,Chaudhary Charan Singh Haryana Agricultural University,61.47,Agriculture,Haryana,North
+1.0,IR-A-U-0560,Indian Institute of Technology Roorkee,83.95,Architecture,Uttarakhand,North
+2.0,IR-A-U-0263,National Institute of Technology Calicut,77.89,Architecture,Kerala,South
+3.0,IR-A-U-0573,Indian Institute of Technology Kharagpur,77.38,Architecture,West Bengal,East
+4.0,IR-A-U-0584,"Indian Institute of Engineering Science and Technology, Shibpur",68.37,Architecture,West Bengal,East
+5.0,IR-A-U-0108,Jamia Millia Islamia,67.15,Architecture,Delhi,North
+6.0,IR-A-U-0127,Centre for Environmental Planning and Technology University,65.73,Architecture,Gujarat,West
+7.0,IR-A-U-0357,National Institute of Technology Rourkela,65.72,Architecture,Odisha,East
+8.0,IR-A-U-0116,School of Planning and Architecture New Delhi,65.11,Architecture,Delhi,North
+9.0,IR-A-U-0467,National Institute of Technology Tiruchirappalli,64.3,Architecture,Tamil Nadu,South
+10.0,IR-A-U-0334,"Visvesvaraya National Institute of Technology, Nagpur",61.22,Architecture,Maharashtra,West
+1.0,IR-C-C-6377,Hindu College,84.01,College,Delhi,North
+2.0,IR-C-C-6355,Miranda House,83.2,College,Delhi,North
+3.0,IR-C-C-6425,Hans Raj College,81.75,College,Delhi,North
+4.0,IR-C-C-6385,Kirori Mal College,80.33,College,Delhi,North
+5.0,IR-C-C-22470,St. Stephens's College,79.41,College,Delhi,North
+6.0,IR-C-I-1317,Rama Krishna Mission Vivekananda Centenary College,76.74,College,West Bengal,East
+7.0,IR-C-C-22462,Atma Ram Sanatan Dharm College,76.09,College,Delhi,North
+8.0,IR-C-C-11881,St. Xavier`s College,76.07,College,Maharashtra,West
+9.0,IR-C-C-41046,PSGR Krishnammal College for Women,75.52,College,Tamil Nadu,South
+10.0,IR-C-C-41124,PSG College of Arts and Science,73.15,College,Tamil Nadu,South
+1.0,IR-N-N-15,"All India Institute of Medical Sciences, Delhi",89.12,Dental,Delhi,North
+2.0,IR-N-I-1441,Saveetha Institute of Medical and Technical Sciences,85.31,Dental,Tamil Nadu,South
+3.0,IR-N-C-28507,Maulana Azad Institute of Dental Sciences,72.55,Dental,Delhi,North
+4.0,IR-N-I-1110,Dr. D. Y. Patil Vidyapeeth,72.36,Dental,Maharashtra,West
+5.0,IR-N-C-7254,"Manipal College of Dental Sciences, Manipal",70.58,Dental,Karnataka,South
+6.0,IR-N-C-19320,A.B.Shetty Memorial Institute of Dental Sciences,69.0,Dental,Karnataka,South
+7.0,IR-N-U-0523,King George`s Medical University,68.89,Dental,Uttar Pradesh,North
+8.0,IR-N-N-352,SRM Dental College,68.19,Dental,Tamil Nadu,South
+9.0,IR-N-U-0363,Siksha `O` Anusandhan,63.12,Dental,Odisha,East
+10.0,IR-N-C-35008,JSS Dental College and Hospital,62.59,Dental,Karnataka,South
+1.0,IR-E-U-0456,Indian Institute of Technology Madras,88.72,Engineering,Tamil Nadu,South
+2.0,IR-E-I-1074,Indian Institute of Technology Delhi,85.74,Engineering,Delhi,North
+3.0,IR-E-U-0306,Indian Institute of Technology Bombay,83.65,Engineering,Maharashtra,West
+4.0,IR-E-I-1075,Indian Institute of Technology Kanpur,81.82,Engineering,Uttar Pradesh,North
+5.0,IR-E-U-0573,Indian Institute of Technology Kharagpur,78.69,Engineering,West Bengal,East
+6.0,IR-E-U-0560,Indian Institute of Technology Roorkee,75.44,Engineering,Uttarakhand,North
+7.0,IR-E-U-0013,Indian Institute of Technology Hyderabad,72.31,Engineering,Telangana,South
+8.0,IR-E-U-0053,Indian Institute of Technology Guwahati,72.24,Engineering,Assam,North East
+9.0,IR-E-U-0467,National Institute of Technology Tiruchirappalli,68.14,Engineering,Tamil Nadu,South
+10.0,IR-E-U-0701,Indian Institute of Technology (Banaras Hindu University) Varanasi,67.24,Engineering,Uttar Pradesh,North
+1.0,IR-L-U-0238,National Law School of India University,82.97,Law,Karnataka,South
+2.0,IR-L-U-0111,National Law University,80.0,Law,,Other
+3.0,IR-L-N-18,Nalsar University of Law,79.5,Law,Telangana,South
+4.0,IR-L-U-0585,The West Bengal National University of Juridical Sciences,79.39,Law,West Bengal,East
+5.0,IR-L-U-0134,Gujarat National Law University,76.23,Law,Gujarat,West
+6.0,IR-L-U-0573,Indian Institute of Technology Kharagpur,74.09,Law,West Bengal,East
+7.0,IR-L-C-19328,"Symbiosis Law School, Pune",74.07,Law,Maharashtra,West
+8.0,IR-L-U-0108,Jamia Millia Islamia,66.39,Law,Delhi,North
+9.0,IR-L-U-0496,Aligarh Muslim University,65.82,Law,Uttar Pradesh,North
+10.0,IR-L-U-0363,Siksha `O` Anusandhan,65.36,Law,Odisha,East
+1.0,IR-M-S-8890,Indian Institute of Management Ahmedabad,83.29,Management,Gujarat,West
+2.0,IR-M-S-8903,Indian Institute of Management Bangalore,81.56,Management,Karnataka,South
+3.0,IR-M-S-8909,Indian Institute of Management Kozhikode,79.85,Management,Kerala,South
+4.0,IR-M-I-1074,Indian Institute of Technology Delhi,78.94,Management,Delhi,North
+5.0,IR-M-S-8959,Indian Institute of Management Lucknow,77.97,Management,Uttar Pradesh,North
+6.0,IR-M-S-8931,"Indian Institute of Management, Mumbai",77.58,Management,Maharashtra,West
+7.0,IR-M-S-8972,Indian Institute of Management Calcutta,77.34,Management,West Bengal,East
+8.0,IR-M-S-8918,Indian Institute of Management Indore,75.68,Management,Madhya Pradesh,Central
+9.0,IR-M-I-1170,Management Development Institute,71.96,Management,Haryana,North
+10.0,IR-M-S-132,XLRI - Xavier School of Management,70.63,Management,Jharkhand,East
+1.0,IR-D-N-15,"All India Institute of Medical Sciences, Delhi",91.8,Medical,Delhi,North
+2.0,IR-D-U-0079,Post Graduate Institute of Medical Education and Research,82.58,Medical,Chandigarh,North
+3.0,IR-D-C-45654,Christian Medical College,76.48,Medical,Tamil Nadu,South
+4.0,IR-D-U-0368,Jawaharlal Institute of Post Graduate Medical Education & Research,73.3,Medical,Puducherry,South
+5.0,IR-D-N-33,Sanjay Gandhi Postgraduate Institute of Medical Sciences,70.09,Medical,Uttar Pradesh,North
+6.0,IR-D-U-0500,Banaras Hindu University,70.05,Medical,Uttar Pradesh,North
+7.0,IR-D-U-0236,"National Institute of Mental Health & Neuro Sciences, Bangalore",69.77,Medical,Karnataka,South
+8.0,IR-D-U-0523,King George`s Medical University,68.77,Medical,Uttar Pradesh,North
+9.0,IR-D-U-0436,Amrita Vishwa Vidyapeetham,68.52,Medical,Tamil Nadu,South
+10.0,IR-D-C-7242,"Kasturba Medical College, Manipal",68.05,Medical,Karnataka,South
+1.0,IR-O-U-0456,Indian Institute of Technology Madras,87.31,Overall,Tamil Nadu,South
+2.0,IR-O-U-0220,Indian Institute of Science,85.0,Overall,Karnataka,South
+3.0,IR-O-U-0306,Indian Institute of Technology Bombay,81.62,Overall,Maharashtra,West
+4.0,IR-O-I-1074,Indian Institute of Technology Delhi,80.67,Overall,Delhi,North
+5.0,IR-O-I-1075,Indian Institute of Technology Kanpur,77.25,Overall,Uttar Pradesh,North
+6.0,IR-O-U-0573,Indian Institute of Technology Kharagpur,73.99,Overall,West Bengal,East
+7.0,IR-O-U-0560,Indian Institute of Technology Roorkee,71.73,Overall,Uttarakhand,North
+8.0,IR-O-N-15,"All India Institute of Medical Sciences, Delhi",70.57,Overall,Delhi,North
+9.0,IR-O-U-0109,Jawaharlal Nehru University,69.62,Overall,Delhi,North
+10.0,IR-O-U-0500,Banaras Hindu University,68.71,Overall,Uttar Pradesh,North
+1.0,IR-P-U-0107,Jamia Hamdard,86.59,Pharmacy,Delhi,North
+2.0,IR-P-U-0391,Birla Institute of Technology & Science -Pilani,82.28,Pharmacy,Rajasthan,North
+3.0,IR-P-U-0078,Panjab University,76.39,Pharmacy,Chandigarh,North
+4.0,IR-P-C-35006,JSS College of Pharmacy,76.14,Pharmacy,Karnataka,South
+5.0,IR-P-I-1077,National Institute of Pharmaceutical Education and Research Hyderabad,75.64,Pharmacy,Telangana,South
+6.0,IR-P-U-0308,Institute of Chemical Technology,74.77,Pharmacy,Maharashtra,West
+7.0,IR-P-C-35007,JSS College of Pharmacy,73.38,Pharmacy,Karnataka,South
+8.0,IR-P-C-7249,"Manipal College of Pharmaceutical Sciences, Manipal",73.25,Pharmacy,Karnataka,South
+9.0,IR-P-U-0380,"National Institute of Pharmaceutical Education and Research, Mohali",70.96,Pharmacy,Punjab,North
+10.0,IR-P-U-0473,S.R.M. Institute of Science and Technology,70.84,Pharmacy,Tamil Nadu,South
+1.0,IR-R-U-0220,Indian Institute of Science,85.01,Research,Karnataka,South
+2.0,IR-R-U-0456,Indian Institute of Technology Madras,82.99,Research,Tamil Nadu,South
+3.0,IR-R-I-1074,Indian Institute of Technology Delhi,80.42,Research,Delhi,North
+4.0,IR-R-U-0306,Indian Institute of Technology Bombay,77.8,Research,Maharashtra,West
+5.0,IR-R-U-0573,Indian Institute of Technology Kharagpur,71.61,Research,West Bengal,East
+6.0,IR-R-I-1075,Indian Institute of Technology Kanpur,69.8,Research,Uttar Pradesh,North
+7.0,IR-R-U-0304,Homi Bhabha National Institute,69.39,Research,Maharashtra,West
+8.0,IR-R-U-0560,Indian Institute of Technology Roorkee,67.27,Research,Uttarakhand,North
+9.0,IR-R-U-0713,Academy of Scientific and Innovative Research,67.15,Research,Uttar Pradesh,North
+10.0,IR-R-U-0053,Indian Institute of Technology Guwahati,64.18,Research,Assam,North East
+1.0,IR-O-U-0575,Jadavpur University,76.08,State Public University,West Bengal,East
+2.0,IR-O-U-0439,Anna University,76.06,State Public University,Tamil Nadu,South
+3.0,IR-O-U-0078,Panjab University,69.92,State Public University,Chandigarh,North
+4.0,IR-O-U-0006,"Andhra University, Visakhapatnam",68.91,State Public University,Andhra Pradesh,South
+5.0,IR-O-U-0260,Kerala University,67.93,State Public University,Kerala,South
+6.0,IR-O-U-0253,Cochin University of Science and Technology,66.24,State Public University,Kerala,South
+7.0,IR-O-U-0027,Osmania University,65.64,State Public University,Telangana,South
+8.0,IR-O-U-0196,University of Kashmir,65.17,State Public University,Jammu and Kashmir,North
+9.0,IR-O-U-0052,Gauhati University,64.24,State Public University,Assam,North East
+10.0,IR-O-U-0447,Bharathiar University,64.09,State Public University,Tamil Nadu,South
+1.0,IR-O-U-0220,Indian Institute of Science,85.05,University,Karnataka,South
+2.0,IR-O-U-0109,Jawaharlal Nehru University,71.0,University,Delhi,North
+3.0,IR-O-U-0234,Manipal Academy of Higher Education-Manipal,69.25,University,Karnataka,South
+4.0,IR-O-U-0108,Jamia Millia Islamia,69.1,University,Delhi,North
+5.0,IR-O-U-0120,University of Delhi,67.38,University,Delhi,North
+6.0,IR-O-U-0500,Banaras Hindu University,67.28,University,Uttar Pradesh,North
+7.0,IR-O-U-0391,Birla Institute of Technology & Science -Pilani,67.24,University,Rajasthan,North
+8.0,IR-O-U-0436,Amrita Vishwa Vidyapeetham,67.05,University,Tamil Nadu,South
+9.0,IR-O-U-0575,Jadavpur University,65.42,University,West Bengal,East
+10.0,IR-O-U-0496,Aligarh Muslim University,65.35,University,Uttar Pradesh,North
